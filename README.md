@@ -15,7 +15,7 @@ This Arduino project allows you to control two servos using an IR remote control
 1. Download and install the [IRremote library](https://github.com/Arduino-IRremote/Arduino-IRremote).
 2. Connect the IR receiver module to pin 11 of your Arduino board. 
 3. Connect two servo motors to pins 9 and 6 of your Arduino board.
-4. Upload the provided sketch (`IR_Servo_Control.ino`) to your Arduino board using the Arduino IDE.
+4. Upload the provided sketch (`IR_Moves_Servo.ino`) to your Arduino board using the Arduino IDE.
 
 ## Usage
 
